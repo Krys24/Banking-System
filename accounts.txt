@@ -1,0 +1,5 @@
+Krystian,Pakos,19,1,1,Checking,50.0
+Patrick,Poo,25,2,2,Checking,-160.0
+Sylvia,Hart,18,3,3,Checking,150.0
+Krystian,Bake,16,4,4,Savings,10.0
+Krystian,Pakos,17,5,5,Savings,0.0
